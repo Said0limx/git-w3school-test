@@ -6,6 +6,3 @@ v
 it is repasitory njdliwnaidnaindiandijaod
 sadad
 
-abuiwubdiaidbaibudiabidwbaibdwiabdi
-a hudbadb
-git add README.md
